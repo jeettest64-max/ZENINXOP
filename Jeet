@@ -6,9 +6,9 @@
     },
 
     "MYTESTKEY-999999": {
-        "expiry": "2026-01-10",
-        "hwid": "SAVED_HWID_HERE",
-        "limit": 2
+        "expiry": "2025-11-21",
+        "hwid": "",
+        "limit": 10
     },
 
     "ANOTHER-KEY-111": {
