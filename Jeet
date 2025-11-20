@@ -1,0 +1,14 @@
+{
+  "keys": {
+    "abc123": {
+      "hwid": "null",
+      "expiry": "2025-12-30",
+      "limit": 1
+    },
+    "premium999": {
+      "hwid": "null",
+      "expiry": "2026-01-10",
+      "limit": 2
+    }
+  }
+}
