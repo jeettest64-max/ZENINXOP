@@ -1,14 +1,19 @@
 {
-  "keys": {
-    "abc123": {
-      "hwid": "null",
-      "expiry": "2025-12-30",
-      "limit": 1
+    "ABCDEF-123456-XYZ": {
+        "expiry": "2025-12-31",
+        "hwid": "",
+        "limit": 1
     },
-    "premium999": {
-      "hwid": "null",
-      "expiry": "2026-01-10",
-      "limit": 2
+
+    "MYTESTKEY-999999": {
+        "expiry": "2026-01-10",
+        "hwid": "SAVED_HWID_HERE",
+        "limit": 2
+    },
+
+    "ANOTHER-KEY-111": {
+        "expiry": "2027-05-20",
+        "hwid": "",
+        "limit": 1
     }
-  }
 }
